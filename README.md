@@ -6,6 +6,11 @@
 
 ## Olá eu sou o Augusto César, desenvolvedor backend!
 
+### Minha Jornada 🚀
+Trabalhei com python de 2019 a 2021 aplicando a sistemas embarcados e desktop, durante pesquisas realizadas na área de neurociência na UFG.
+
+Atualmente trabalho com Ruby on Rails, aplicado a um ambiente misto de microserviços e a aplicação web, full cloud, com o frontend completamente desacoplado. já trabalhei com projetos legados, e com update de versões desses projetos. Tenho facilidade de criar ambientes simulados em containers para testes. Uso amplamente cobertura de testes unitários para mapeamento das funcionalidades e verificação da saúde do código, e a algum tempo comecei a me interessar pelo uso de swagger para criar os teste de API e gerar documentação para integrações conjuntas a outras ferramentas e ambientes.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Guss-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Guss-Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rails/rails-plain-wordmark.svg">
