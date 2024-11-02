@@ -30,8 +30,6 @@ Atualmente trabalho em um projeto Ruby on Rails, aplicado a um ambiente misto de
   <img align="center" alt="Guss-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original.svg">
   <img align="center" alt="Guss-Rasp" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
   <img align="center" alt="Guss-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="img/aws-2.svg">
-
 </div>
   
   ##
